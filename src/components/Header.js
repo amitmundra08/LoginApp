@@ -34,9 +34,10 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
     flex: 1,
-    borderColor: Colors.lightGreyWithOpacity,
+    borderColor: '#90CDF4',
     borderWidth: 1,
     padding: 4,
+    backgroundColor: '#EBF8FF',
   },
   dataFontStyle: {fontWeight: 'bold'},
 });
